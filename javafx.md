@@ -1,2 +1,2 @@
-javafx is GUI control of java
+javafx is GUI lib of java
 
