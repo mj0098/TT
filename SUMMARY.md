@@ -3,5 +3,5 @@
 * [Introduction](README.md)
 * [JavaFX](javafx.md)
 * [R](r.md)
-* Maven
+* [Maven](maven.md)
 
